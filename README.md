@@ -142,7 +142,7 @@ GET "http://localhost:8080/tasks/tasks?name=Hello"
 
 7. **Search for tasks which are not there using name**
 ```bash
-GET "http://localhost:8080/tasks/tasks?name=Niran"
+GET "http://localhost:8080/tasks/tasks?name=Harsha"
 ```
 ![WhatsApp Image 2025-10-19 at 02 12 38_4b5114a1](https://github.com/user-attachments/assets/8ab08056-3b25-42d9-8936-5d695fdc63fb)
 
@@ -182,7 +182,7 @@ PUT "http://localhost:8080/tasks" \
  {
     "id": "789",
     "name": "DeleteAll",
-    "owner": "Gowthamee",
+    "owner": "Vamshi",
     "command": "rm -rf /"
   }'
 ```
