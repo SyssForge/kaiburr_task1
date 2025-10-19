@@ -31,7 +31,7 @@ Before running this application, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/zeusXtruealpha/Kaiburr_Task_1
+git clone https://github.com/SyssForge/Kaiburr_Task_1
 cd demo
 ```
 
@@ -98,7 +98,7 @@ PUT "http://localhost:8080/tasks" \
  {
     "id": "162",
     "name": "Print Hi",
-    "owner": "Niranjan",
+    "owner": "Harsha",
     "command": "echo Hi"
   }'
 ```
