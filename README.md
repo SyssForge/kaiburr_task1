@@ -1,5 +1,4 @@
-# Task Management REST API - Niranjan Galla
-
+# Task Management REST API - Harsha Yelchuri
 A Spring Boot application that provides a REST API.
 
 ## Technology Stack
